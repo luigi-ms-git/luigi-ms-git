@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi dev 👋
 
+I am Luigi Moraes, a Full-stack developer from Brazil. Here is some web projects and some random projects I build in my life.</br>
+Hope you enjoy :smiley:.
+
+Links for contacts:</br>
+* [LinkedIn](https://www.linkedin.com/santos-luigi-moraes) </br>
+* [Twitter](https://twitter.com/luigimoraes2)
 <!--
 **luigimoraes/luigimoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
