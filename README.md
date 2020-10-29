@@ -4,8 +4,8 @@ I am Luigi Moraes, a Full-stack developer from Brazil. Here is some web projects
 Hope you enjoy :smiley:.
 
 Links for contacts:</br>
-* [LinkedIn](https://www.linkedin.com/santos-luigi-moraes) </br>
-* [Twitter](https://twitter.com/luigimoraes2)
+* <img src="./media/linkedin.svg" width="15" alt="LinkedIn Icon" />  [LinkedIn](https://www.linkedin.com/santos-luigi-moraes) </br>
+* <img src="./media/twitter.svg" width="15" alt="Twitter Icon" />  [Twitter](https://twitter.com/luigimoraes2)
 <!--
 **luigimoraes/luigimoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
