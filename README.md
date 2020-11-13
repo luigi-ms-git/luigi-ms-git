@@ -1,6 +1,6 @@
 ### Hi dev 👋
 
-I am Luigi Moraes, a Full-stack developer from Brazil. Here is some web projects and some random projects I build in my life.</br>
+I am Luigi Moraes, a Full-stack developer from Brazil. Here is some web projects and some random projects I made in my life.</br>
 Hope you enjoy :smiley:.
 
 Links for contacts:</br>
