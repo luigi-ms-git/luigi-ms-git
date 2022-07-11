@@ -1,8 +1,11 @@
-### Hi dev 👋
+### Hello there 👋
 
-I am Luigi Moraes, a web developer from Brazil. Here is some web projects and some random projects I made in my life.</br>
-Hope you enjoy :smiley:.
+Meu nome é Luigi Moraes, sou dev front-end com experiência em back-end. </br> 
+Aqui posto os meus projetos q fiz na área da web. </br>
+Fique a vontade para contribuir :smiley:
 
-Links for contact:</br>
-* <img src="./media/linkedin.svg" width="15" alt="LinkedIn Icon" />  [LinkedIn](https://www.linkedin.com/santos-luigi-moraes) </br>
-* <img src="./media/twitter.svg" width="15" alt="Twitter Icon" />  [Twitter](https://twitter.com/luigimoraes2)
+Links para contato:</br>
+* [LinkedIn](https://www.linkedin.com/santos-luigi-moraes) </br>
+* [Twitter](https://twitter.com/luigi_ms_txt) </br>
+* [Instagram](https://instagram.com/luigi_ms.jpg)
+* <a href="mailto">E-Mail</a>
