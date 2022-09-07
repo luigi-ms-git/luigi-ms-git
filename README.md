@@ -1,3 +1,7 @@
+<div style="display: flex">
+<img src="" />
+</div>
+
 ### Hello there 👋
 
 Meu nome é Luigi Moraes, sou dev front-end com experiência em back-end. </br> 
