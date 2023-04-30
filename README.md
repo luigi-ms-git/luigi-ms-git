@@ -1,10 +1,7 @@
 ### Hello there 👋
 
-<div style="display: flex">
-<img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-<img height="62" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img height="62" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />          
-<img height="62" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />          
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vuejs,postgres,express,nodejs">
 </div>
 
 Meu nome é Luigi Moraes, sou dev front-end com experiência em back-end. </br> 
