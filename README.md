@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vuejs,postgres,express,nodejs">
+<img src="https://skillicons.dev/icons?i=vuejs,express,postgres,nodejs">
 </div>
 
 Meu nome é Luigi Moraes, sou dev front-end com experiência em back-end. </br> 
