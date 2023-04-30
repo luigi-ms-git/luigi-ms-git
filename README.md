@@ -1,14 +1,17 @@
-### Hello there 👋
+<h1>Hello there 👋</h1>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vuejs,express,postgres,nodejs">
+  <img src="https://skillicons.dev/icons?i=vuejs">
+  <img src="https://skillicons.dev/icons?i=express">
+  <img src="https://skillicons.dev/icons?i=postgres">
+  <img src="https://skillicons.dev/icons?i=nodejs">
 </div>
 
-Meu nome é Luigi Moraes, sou dev front-end com experiência em back-end. </br> 
-Aqui posto os meus projetos q fiz na área da web. </br>
-Fique a vontade para contribuir :smiley:
+<p>Meu nome é Luigi Moraes, sou dev front-end com experiência em back-end.</p> 
+<p>Aqui posto os meus projetos q fiz na área da web e programação em geral.</p>
+<p>Fique a vontade para contribuir :smiley:</p>
 
-### Redes Sociais</br>
+<h2>Redes Sociais</h2>
 <ul style="display: flex; flex-direction: 'column';">
   <li>
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=santos-luigi-moraes&style=social&logo=linkedin" />
