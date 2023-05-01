@@ -14,15 +14,26 @@
 <h2>Redes Sociais</h2>
 <ul style="display: flex; flex-direction: 'column';">
   <li>
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=santos-luigi-moraes&style=social&logo=linkedin" />
+    <a href="https://linkedin.com/in/santos-luigi-moraes">
+      <img src="https://img.shields.io/static/v1?label=LinkedIn&message=%20&style=for-the-badge&logo=LinkedIn&color=blue&labelColor=blue&logoColor=white" />
+    </a>
   </li>
+  
   <li>
-    <img src="https://img.shields.io/static/v1?label=Instagram&message=_luigims&style=social&logo=instagram" />
+    <a href="https://instagram.com/_luigims">
+      <img src="https://img.shields.io/static/v1?label=Instagram&message=%20&style=for-the-badge&logo=Instagram&color=purple&labelColor=purple&logoColor=white" />
+    </a>
   </li>
+  
   <li>
-    <img src="https://img.shields.io/static/v1?label=Twitter&message=_luigims&style=social&logo=twitter" />
+    <a href="https://twitter.com/_luigims">
+      <img src="https://img.shields.io/static/v1?label=Twitter&message=%20&style=for-the-badge&logo=Twitter&color=blue&labelColor=blue&logoColor=white" />
+    </a>
   </li>
+  
   <li>
-    <img src="https://img.shields.io/static/v1?label=GMail&message=luigimoraessantos&style=social&logo=gmail" />
+    <a href="mailto:luigimoraessantos@gmail.com">
+      <img src="https://img.shields.io/static/v1?label=GMail&message=%20&style=for-the-badge&logo=Gmail&color=red&labelColor=red&logoColor=white" />
+    </a>
   </li>  
 </ul>
