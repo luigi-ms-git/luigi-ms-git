@@ -12,6 +12,8 @@ Meu nome é Luigi Moraes, sou dev front-end com experiência em back-end.
 Aqui posto os meus projetos q fiz na área da web e programação em geral.
 Fique a vontade para contribuir :smiley:
 
+![luigi-ms's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luigi-ms&theme=tokyonight&hide_border=true)
+
 ## Contato
 
 [![linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=%20&style=for-the-badge&logo=LinkedIn&color=blue&labelColor=blue&logoColor=white)](https://linkedin.com/in/santos-luigi-moraes)
