@@ -18,6 +18,6 @@ Fique a vontade para contribuir :smiley:
 
 [![instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&style=for-the-badge&logo=Instagram&color=purple&labelColor=purple&logoColor=white)](https://instagram.com/_luigims)
 
-[![twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&style=for-the-badge&logo=Twitter&color=blue&labelColor=blue&logoColor=white)](https://twitter.com/_luigims)
+[![twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&style=for-the-badge&logo=X&color=blue&labelColor=blue&logoColor=white)](https://twitter.com/_luigims)
 
 [![email](https://img.shields.io/static/v1?label=GMail&message=%20&style=for-the-badge&logo=Gmail&color=red&labelColor=red&logoColor=white)](mailto:luigimoraessantos@gmail.com)
