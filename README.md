@@ -1,4 +1,4 @@
-<h1>Hello there 👋</h1>
+# Hello there 👋
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vuejs">
@@ -7,33 +7,17 @@
   <img src="https://skillicons.dev/icons?i=nodejs">
 </div>
 
-<p>Meu nome é Luigi Moraes, sou dev front-end com experiência em back-end.</p> 
-<p>Aqui posto os meus projetos q fiz na área da web e programação em geral.</p>
-<p>Fique a vontade para contribuir :smiley:</p>
+## Sobre
+Meu nome é Luigi Moraes, sou dev front-end com experiência em back-end.
+Aqui posto os meus projetos q fiz na área da web e programação em geral.
+Fique a vontade para contribuir :smiley:
 
-<h2>Redes Sociais</h2>
-<ul style="display: flex; flex-direction: 'column';">
-  <li>
-    <a href="https://linkedin.com/in/santos-luigi-moraes">
-      <img src="https://img.shields.io/static/v1?label=LinkedIn&message=%20&style=for-the-badge&logo=LinkedIn&color=blue&labelColor=blue&logoColor=white" />
-    </a>
-  </li>
-  
-  <li>
-    <a href="https://instagram.com/_luigims">
-      <img src="https://img.shields.io/static/v1?label=Instagram&message=%20&style=for-the-badge&logo=Instagram&color=purple&labelColor=purple&logoColor=white" />
-    </a>
-  </li>
-  
-  <li>
-    <a href="https://twitter.com/_luigims">
-      <img src="https://img.shields.io/static/v1?label=Twitter&message=%20&style=for-the-badge&logo=Twitter&color=blue&labelColor=blue&logoColor=white" />
-    </a>
-  </li>
-  
-  <li>
-    <a href="mailto:luigimoraessantos@gmail.com">
-      <img src="https://img.shields.io/static/v1?label=GMail&message=%20&style=for-the-badge&logo=Gmail&color=red&labelColor=red&logoColor=white" />
-    </a>
-  </li>  
-</ul>
+## Contato
+
+[![linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=%20&style=for-the-badge&logo=LinkedIn&color=blue&labelColor=blue&logoColor=white)](https://linkedin.com/in/santos-luigi-moraes)
+
+[![instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&style=for-the-badge&logo=Instagram&color=purple&labelColor=purple&logoColor=white)](https://instagram.com/_luigims)
+
+[![twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&style=for-the-badge&logo=Twitter&color=blue&labelColor=blue&logoColor=white)](https://twitter.com/_luigims)
+
+[![email](https://img.shields.io/static/v1?label=GMail&message=%20&style=for-the-badge&logo=Gmail&color=red&labelColor=red&logoColor=white)](mailto:luigimoraessantos@gmail.com)
